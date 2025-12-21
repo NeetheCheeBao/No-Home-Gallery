@@ -24,9 +24,8 @@
 * **主文件夹 (Home)**: `{f874310e-b6b7-47dc-bc84-b9e6b38f5903}`
 * **图库 (Gallery)**: `{e88865ea-0e1c-4e20-9aa6-edcd0212c87c}`
 
-## 🚀 如何使用
+## 🚀 下载使用
 
-### 直接下载可执行文件 (推荐)
 前往 [Releases]([Releases](https://github.com/NeetheCheeBao/No-Home-Gallery/releases)) 页面下载
 
 ## 📄 许可证
