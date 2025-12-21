@@ -24,10 +24,10 @@
 * **主文件夹 (Home)**: `{f874310e-b6b7-47dc-bc84-b9e6b38f5903}`
 * **图库 (Gallery)**: `{e88865ea-0e1c-4e20-9aa6-edcd0212c87c}`
 
-## 🚀 下载使用
+## ⬇️ 下载使用
 
 前往 [Releases](https://github.com/NeetheCheeBao/No-Home-Gallery/releases)页面下载
 
-## 📄 许可证
+## ⚖️ 许可证
 
 本项目采用 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件。
