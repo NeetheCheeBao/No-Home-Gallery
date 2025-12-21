@@ -27,7 +27,7 @@
 ## 🚀 如何使用
 
 ### 直接下载可执行文件 (推荐)
-前往 [Releases](Releases) 页面下载
+前往 [Releases]([Releases](https://github.com/NeetheCheeBao/No-Home-Gallery/releases)) 页面下载
 
 ## 📄 许可证
 
