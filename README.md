@@ -26,7 +26,7 @@
 
 ## 🚀 下载使用
 
-前往 [Releases]([Releases](https://github.com/NeetheCheeBao/No-Home-Gallery/releases)) 页面下载
+前往 [Releases](https://github.com/NeetheCheeBao/No-Home-Gallery/releases)页面下载
 
 ## 📄 许可证
 
