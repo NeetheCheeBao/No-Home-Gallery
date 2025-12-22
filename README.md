@@ -1,7 +1,7 @@
 # No-Home-Gallery
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-win.svg)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Windows-win.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 基于 Python 编写的轻量级工具，用于隐藏资源管理器侧边栏（导航窗格）中烦人的**主文件夹**和**图库**。
