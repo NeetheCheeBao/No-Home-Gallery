@@ -7,12 +7,12 @@
 基于 Python 编写的轻量级工具，用于隐藏资源管理器侧边栏（导航窗格）中烦人的**主文件夹**和**图库**。
 
 ## 📸 工具截图
-<img src="/IMG/0.png" />
+![img](/assets/demo1.png)
 
 ## ✨ 效果展示
 |隐藏前|隐藏后|
 |---|---|
-|<img src="/IMG/2.png" />|<img src="/IMG/3.png" />|
+| ![img](/assets/demo2.png) | ![img](/assets/demo3.png) |
 
 ## ⚙️ 原理说明
 
