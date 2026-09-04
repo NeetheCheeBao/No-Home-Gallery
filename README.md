@@ -24,6 +24,12 @@
 * **主文件夹 (Home)**: `{f874310e-b6b7-47dc-bc84-b9e6b38f5903}`
 * **图库 (Gallery)**: `{e88865ea-0e1c-4e20-9aa6-edcd0212c87c}`
 
+## 🛠️ 本地编译
+
+```bash
+.\build.bat
+```
+
 ## ⬇️ 下载使用
 
 前往 [Releases](https://github.com/NeetheCheeBao/No-Home-Gallery/releases)页面下载
